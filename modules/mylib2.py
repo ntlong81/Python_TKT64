@@ -1,0 +1,1 @@
+print('The lib2 is imported')
